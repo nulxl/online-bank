@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tofi/static/css/main.09d8e74e.css",
-    "main.js": "/tofi/static/js/main.57106f4c.js",
-    "index.html": "/tofi/index.html",
-    "main.09d8e74e.css.map": "/tofi/static/css/main.09d8e74e.css.map",
-    "main.57106f4c.js.map": "/tofi/static/js/main.57106f4c.js.map"
+    "main.css": "/online-bank/static/css/main.09d8e74e.css",
+    "main.js": "/online-bank/static/js/main.57106f4c.js",
+    "index.html": "/online-bank/index.html",
+    "main.09d8e74e.css.map": "/online-bank/static/css/main.09d8e74e.css.map",
+    "main.57106f4c.js.map": "/online-bank/static/js/main.57106f4c.js.map"
   },
   "entrypoints": [
     "static/css/main.09d8e74e.css",
