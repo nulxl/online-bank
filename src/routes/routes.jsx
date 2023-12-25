@@ -8,15 +8,15 @@ import { CreditsPage } from "../pages/CreditsPage/CreditsPage";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/online-bank/",
     element: <App />,
     children: [
-      { path: "/", element: <Navigate to="/signIn" /> },
-      { path: "/home", element: <HomePage /> },
-      { path: "/signIn", element: <SignInPage /> },
-      { path: "/signUp", element: <SignUpPage /> },
-      { path: "/transactions", element: <TransactionPage /> },
-      { path: "/credits", element: <CreditsPage /> },
+      { path: "", element: <Navigate to="signIn" /> },
+      { path: "home", element: <HomePage /> },
+      { path: "signIn", element: <SignInPage /> },
+      { path: "signUp", element: <SignUpPage /> },
+      { path: "transactions", element: <TransactionPage /> },
+      { path: "credits", element: <CreditsPage /> },
     ],
   },
 ]);
