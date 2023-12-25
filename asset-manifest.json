@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/online-bank/static/css/main.09d8e74e.css",
-    "main.js": "/online-bank/static/js/main.57106f4c.js",
+    "main.js": "/online-bank/static/js/main.1e896a4f.js",
     "index.html": "/online-bank/index.html",
     "main.09d8e74e.css.map": "/online-bank/static/css/main.09d8e74e.css.map",
-    "main.57106f4c.js.map": "/online-bank/static/js/main.57106f4c.js.map"
+    "main.1e896a4f.js.map": "/online-bank/static/js/main.1e896a4f.js.map"
   },
   "entrypoints": [
     "static/css/main.09d8e74e.css",
-    "static/js/main.57106f4c.js"
+    "static/js/main.1e896a4f.js"
   ]
 }
